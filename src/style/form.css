@@ -1,0 +1,50 @@
+.form{
+  
+  align-items: center;
+}
+
+.fform {
+  background: white;
+  padding: 20px;
+  border-radius: 21px;
+  box-shadow: 0 9px 25px gray;
+  display: flex;
+  flex-direction: column;
+margin-bottom: 23px;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 23px;
+}
+
+.form-group label {
+  margin-bottom: 13px;
+  font-weight: 800;
+}
+
+.form-group input,
+.form-group textarea {
+  border: 1px solid #f4f4f9;
+  border-radius: 10px;
+  padding: 17px;
+  
+}
+
+.formitem {
+  background: #2563eb;
+  color: white;
+  
+  border-radius: 10px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-right: 0px;
+  padding-left: 0px;
+ 
+}
+
+.result {
+  background: white;
+  padding: 18px;
+  border-radius: 18px;
+}

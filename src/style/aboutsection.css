@@ -1,0 +1,48 @@
+.aboutcontainer {
+    padding-left: 50px;
+  padding-right: 50px;
+  padding-top:60px ;
+  padding-bottom:60px ;
+  display: flex;
+  align-items: center;
+}
+.abouttext {
+ width: 50%;
+}
+.aboutimg {
+   width: 50%;
+
+}
+
+.aboutfheading{
+    font-weight: 900;
+  display: inline-block;
+  background-color: #b3b4b8;
+  color: #593a7e;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:15px ;
+  padding-bottom:15px ;
+ 
+ border-radius: 30px;
+ margin-bottom: 20px;
+}
+
+.aboutsheading {
+    color: #1a1a1a;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 22px;
+}
+
+.paragraph {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #444;
+}
+
+.aboutimg img {
+  width: 100%;
+  border-radius: 15px ;
+}

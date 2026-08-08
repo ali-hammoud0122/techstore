@@ -1,0 +1,44 @@
+
+.footer{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1a1a1a;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 50px;
+     padding-right: 50px;
+     color: azure;
+}
+
+.leftf h5 {
+  color: white;
+    display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+
+.middlef {
+  display: flex;
+  flex-direction: column;
+}
+
+.middlef h5 {
+  color: white;
+  margin-bottom: 12px;
+}
+
+.middlef a {
+  color: #ccc;
+  text-decoration: none;
+  margin-bottom: 12px;
+}
+
+
+
+.lastf {
+  font-size: 14px;
+  color: #999;
+ align-items: center;
+}

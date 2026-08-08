@@ -1,0 +1,39 @@
+.shop{
+     background-image: url('../assets/background1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+.pshop{
+    text-align: center;
+    margin-top: 20px;
+     margin-bottom: 20px;
+
+}
+.pshop h2{
+    font-weight: 500;
+    font-size: 60px;
+    color: rgb(81, 0, 255);
+
+}
+.pshop p{
+   
+    font-size: 27px;
+    color: rgb(138, 137, 138);
+
+}
+.box{
+    padding: 50px;
+}
+.cardshop{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 60px;
+
+}
+
+.cardshop img{
+    width: 100%;
+}
