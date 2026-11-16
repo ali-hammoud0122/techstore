@@ -17,8 +17,8 @@ function AboutSection() {
 
       </div>
      <div className='aboutimg'>
-        <img src="/src/assets/aboutus1.png" alt="photo"/>
-      </div>
+
+<img src={aboutImage} alt="photo"/>      </div>
     </div>
     </div>
   );
